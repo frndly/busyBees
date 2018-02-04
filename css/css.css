@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: #3A3A3A;
+    font-family: 'Supermercado One', cursive;
+    font-size: 80px;
+    margin-top: 0px;
+}
+
+h2 {
+    color: #3A3A3A;
+    font-family: 'Dosis', sans-serif;
+    margin-top: -50px;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    text-align: justify;
+}
+
+#everything {
+    width: 950px;
+    text-align: center;
+}
+
+#bumbleBeeLogo {
+    height: 200px;
+    
+}
+
+#wrapper {
+    text-align: left;
+    background: #FFDD6B;
+    max-width: 900px;
+}
+
+#kidPainting {
+    width: 40vw;
+    text-align: left;
+    display: block;
+    border: 10px solid #3A3A3A;
+    float: left;
+}
