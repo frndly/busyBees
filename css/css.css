@@ -18,6 +18,20 @@ h2 {
     margin-top: -50px;
 }
 
+h3 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    color: #FFDD6B;
+    text-align: justify;
+}
+
+h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    color: #3A3A3A;
+    text-align: center;
+}
+
 p {
     font-family: 'Work Sans', sans-serif;
     text-align: justify;
