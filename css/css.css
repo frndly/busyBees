@@ -39,12 +39,12 @@ p {
 
 #everything {
     width: 950px;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 #bumbleBeeLogo {
-    height: 200px;
-    
+    height: 100px;
+    text-align: left;
 }
 
 #wrapper {
