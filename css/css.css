@@ -3,6 +3,7 @@ body {
     padding: 0px;
     text-align: center;
     width: 100%;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -10,12 +11,14 @@ h1 {
     font-family: 'Supermercado One', cursive;
     font-size: 80px;
     margin-top: 0px;
+    padding-top: 10px;
 }
 
 h2 {
     color: #3A3A3A;
     font-family: 'Dosis', sans-serif;
-    margin-top: -50px;
+    margin-top: -10px;
+    margin-bottom: 0px;
 }
 
 h3 {
@@ -37,26 +40,39 @@ p {
     text-align: justify;
 }
 
+#titleOffset {
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
 #everything {
-    width: 950px;
+    
     /*text-align: center;*/
 }
 
 #bumbleBeeLogo {
-    height: 100px;
-    text-align: left;
+    height: 140px;
+    margin: 20px;
 }
 
-#wrapper {
-    text-align: left;
-    background: #FFDD6B;
-    max-width: 900px;
+#menuPlaceholder {
+    margin-top: 60px;
+    text-align: center;
 }
 
-#kidPainting {
-    width: 40vw;
-    text-align: left;
-    display: block;
-    border: 10px solid #3A3A3A;
-    float: left;
+.paintings {
+    width: 100%;
+}
+
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+
+.top-buffer { 
+    margin-top:30px; 
+}
+
+.bigger-top-buffer {
+    margin-top: 50px;
 }
