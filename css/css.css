@@ -35,6 +35,12 @@ h4 {
     text-align: center;
 }
 
+h5 {
+    font-family: 'work Sans', sans-serif;
+    font-weight: 450;
+    color: #3A3A3A;
+}
+
 p {
     font-family: 'Work Sans', sans-serif;
     text-align: justify;
@@ -75,4 +81,29 @@ p {
 
 .bigger-top-buffer {
     margin-top: 50px;
+}
+
+.pricingTable {
+    background-color: #FFDD6B;
+    box-shadow: 5px 5px 1px 0 rgba(146,146,146,0.4)
+}
+
+#quote h1 {
+    color: #3A3A3A;
+}
+
+#quote h2{
+    color: #FFDD6B;
+}
+
+#quote h3 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.video {
+    padding-left: 0px;
+    padding-right: 0px;
+
 }
